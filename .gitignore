@@ -52,3 +52,11 @@ docs/_build/
 
 # PyBuilder
 target/
+
+#logs
+logcat.txt
+
+#eclipse files
+.project
+.pydevproject
+
